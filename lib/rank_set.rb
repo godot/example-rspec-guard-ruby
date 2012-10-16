@@ -1,6 +1,6 @@
 require 'ostruct'
 
-module Ranking
+module RankSet
   @@current = nil
 
   def self.ranks
@@ -8,14 +8,14 @@ module Ranking
   end
 
   def self.load name = 'us-army'
-    @@current = Ranking.new(name)
+    @@current = FileStorage.new(name)
   end
 
   def self.levels
     @@current && @@current.levels
   end
 
-  class Ranking
+  class FileStorage
     attr_reader :ranks
     def initialize(name)
       @ranks = []

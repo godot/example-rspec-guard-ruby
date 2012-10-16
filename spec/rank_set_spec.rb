@@ -8,7 +8,7 @@ shared_examples_for :rank do
       title: 'PRIVATE',
       short: 'PVT/PV2',
       addressed_as: 'Private',
-      description: 'Lowest rank: a trainee who’s starting Basic Combat Training (BCT). Primary role is to carry out orders issued to them to the best of his/her ability. (PVT does not have an insignia)'
+      description: "Lowest rank: a trainee who's starting Basic Combat Training (BCT). Primary role is to carry out orders issued to them to the best of his/her ability. (PVT does not have an insignia)"
     }
   }
 
@@ -30,25 +30,25 @@ shared_examples_for :rank do
   end
 end
 
-describe Ranking, ' when importing '  do
-  it ' ::load imports ranking from file' do
+describe RankSet, ' when importing '  do
+  it ' ::load imports ranks from file' do
     expect {
-      Ranking::load
-    }.to change(Ranking, :levels).from(nil).to(27)
+      RankSet::load
+    }.to change(RankSet, :levels).from(nil).to(27)
   end
 
-  context Ranking::Rank do
+  context RankSet::Rank do
     before do
-      Ranking::load
+      RankSet::load
     end
-    subject { Ranking::ranks.first }
+    subject { RankSer::ranks.first }
 
     it_behaves_like :rank
   end
 
 end
 
-describe Ranking::Rank do
+describe RankSet::Rank do
   subject {
     described_class.new(attributes)
   }
