@@ -1,10 +1,10 @@
 PRIVATE (PVT/PV2)
 (Addressed as "Private")
-Lowest rank: a trainee who’s starting Basic Combat Training (BCT). Primary role is to carry out orders issued to them to the best of his/her ability. (PVT does not have an insignia)
+Lowest rank: a trainee who's starting Basic Combat Training (BCT). Primary role is to carry out orders issued to them to the best of his/her ability. (PVT does not have an insignia)
 
 PRIVATE FIRST CLASS (PFC)
 (Addressed as "Private")
-PV2s are promoted to this level after one year—or earlier by request of supervisor. Individual can begin BCT at this level with experience or prior military training. Carries out orders issued to them to the best of his/her ability.
+PV2s are promoted to this level after one year-or earlier by request of supervisor. Individual can begin BCT at this level with experience or prior military training. Carries out orders issued to them to the best of his/her ability.
 
 SPECIALIST (SPC)
 (Addressed as "Specialist")
@@ -40,10 +40,10 @@ SGMs experience and abilities are equal to that of the CSM, but the sphere of in
 
 COMMAND SERGEANT MAJOR (CSM)
 (Addressed as " Command Sergeant Major")
-Functioning without supervision, a CSM’s counsel is expected to be calm, settled and accurate—with unflagging enthusiasm. Supplies recommendations to the commander and staff, and carries out policies and standards on the performance, training, appearance and conduct of enlisted personnel. Assists Officers at the brigade level (3,000 to 5,000 Soldiers).
+Functioning without supervision, a CSM's counsel is expected to be calm, settled and accurate-with unflagging enthusiasm. Supplies recommendations to the commander and staff, and carries out policies and standards on the performance, training, appearance and conduct of enlisted personnel. Assists Officers at the brigade level (3,000 to 5,000 Soldiers).
 
 SERGEANT MAJOR OF THE ARMY
-There’s only one Sergeant Major of the Army. This rank is the epitome of what it means to be a Sergeant and oversees all Non-Commissioned Officers. Serves as the senior enlisted advisor and consultant to the Chief of Staff of the Army (a four-star General).
+There's only one Sergeant Major of the Army. This rank is the epitome of what it means to be a Sergeant and oversees all Non-Commissioned Officers. Serves as the senior enlisted advisor and consultant to the Chief of Staff of the Army (a four-star General).
 
 WARRANT OFFICER 1 (WO1)
 Appointed by warrant from the Secretary of the Army. WO1s are technically and tactically focused officers who perform the primary duties of technical leader, trainer, operator, manager, maintainer, sustainer, and advisor.

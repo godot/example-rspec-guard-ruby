@@ -1,4 +1,4 @@
 require 'bundler/setup'
 Bundler::require(:default)
 
-require './lib/ranking'
+require './lib/rank_set'
