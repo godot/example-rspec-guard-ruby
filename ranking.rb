@@ -1,0 +1,2 @@
+module GitRank
+end
